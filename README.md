@@ -17,7 +17,7 @@ Priorizar el recall de la clase positiva para reducir los falsos negativos e ide
 - Análisis exploratorio de datos.
 - Tratamiento de valores desconocidos e imputación con KNN.
 - Codificación de variables categóricas y escalado.
-- Evaluación de técnicas de balanceo de clases.
+- Implementación y comparación de técnicas de balanceo de clases: oversampling con SMOTE,   undersampling con Tomek Links y combinaciones de ambas.
 - Entrenamiento de regresión logística y redes neuronales.
 - Evaluación mediante recall, precision, F1-score y matriz de confusión.
 - Análisis de importancia por permutación.
