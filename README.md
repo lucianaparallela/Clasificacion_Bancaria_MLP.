@@ -1,6 +1,6 @@
 # Clasificación Bancaria con Machine Learning y Redes Neuronales
 
-🚧 Proyecto académico en desarrollo.
+ Proyecto académico en desarrollo.
 
 ## Descripción
 
@@ -40,7 +40,7 @@ Por lo tanto, las métricas de los modelos que incluyen esta variable correspond
 
 ## Tecnologías
 
-Python · pandas · NumPy · scikit-learn · TensorFlow/Keras · imbalanced-learn · Matplotlib · Seaborn
+Python · pandas · NumPy · scikit-learn · TensorFlow/Keras · imbalanced-learn · Matplotlib · Seaborn 
 
 ## Autoras
 
