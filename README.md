@@ -1,6 +1,6 @@
 # Clasificación Bancaria con Machine Learning y Redes Neuronales
 
- Proyecto académico en desarrollo.
+Proyecto académico finalizado.
 
 ## Descripción
 
