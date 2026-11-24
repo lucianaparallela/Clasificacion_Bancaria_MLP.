@@ -46,6 +46,6 @@ Python · pandas · NumPy · scikit-learn · TensorFlow/Keras · imbalanced-lear
 
 - Luciana Sol Parallela.
 - Camila Belén González.
-- Colosimo Andrés Lucas. 
+- Lucas Andrés Colosimo. 
 
 Trabajo académico realizado en la Universidad Nacional Guillermo Brown.
